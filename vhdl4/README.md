@@ -1,5 +1,3 @@
-## Write VHDL code for custom single purpose processor that calculates the Greatest Common Divisor(GCD) of two numbers as Finite State Machine.
-
 # **GCD(Greatest Common Divisor)**
 This reppository contains VHDL code for a GCD (Greatest Common Divisor) calculator(GCD) and its corresponding testbench(gcdTB).
 
