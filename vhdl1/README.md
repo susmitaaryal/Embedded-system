@@ -28,8 +28,6 @@ The testbench includes various test cases to verify the behavior of the JK FLIPF
  2. **Test Case 2**:Inputs (A='0',B='1',Cin='0')
  3. (*Add more test cases as needed*)
 
-### Circuit Diagram
- ![Circuit Diagram of full adder](/vhdl1/fulladder.png)
 
 ### Simulation Duration
  Each test case is simulated for a duration to allow  sufficient time for the computation to finish and the result to stabilize.
